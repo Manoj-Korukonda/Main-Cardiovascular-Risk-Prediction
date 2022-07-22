@@ -1,0 +1,8 @@
+        Model	                Accuracy               Recall
+0	Logistic Regression	77.777778              78%
+1	K-Nearest Neighbour	85.474537              85%
+2	Random Forest	        92.129630              90%
+3	Decision Tree	        83.854167              84%
+4	Gradient Boosting	86.805556              87%
+
+After Hyperparameter Tuning using Gridsearch CV we got Recall of 92%
