@@ -82,7 +82,7 @@ For classification problems, a class label is assigned on the basis of a majorit
 <p><b>1) Model Performance cardiovascular1.ipynb</b></p>
 <p> This file must be executed, to define all the functions and variables required for classification operations which leads to the evaluation of the model performance on unseen data where we applied SMOTE
 
-<p><b>1) Model Performance cardiovascular2.ipynb</b></p>
+<p><b>2) Model Performance cardiovascular2.ipynb</b></p>
 <p> This file must be executed, to define all the functions and variables required for classification operations which leads to the evaluation of the model performance on unseen data where we applied SMOTE ENN
   
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
