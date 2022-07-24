@@ -7,7 +7,7 @@
    
    ![ijcc-4-103-003](https://user-images.githubusercontent.com/109129303/178746523-2e78a5c9-5aa5-4506-8386-16db1d57aea8.gif)
 
-  
+ 
 
 
 
@@ -16,12 +16,13 @@
 
 <h2> :floppy_disk: Project Files Description</h2>
 
-<p>This Project includes 2 executable files, 1 text files , 1 directories as follows:</p>
+<p>This Project includes 3 executable files, 1 text files , 1 directories as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
   
   <li><b>EDA cardiovascular.ipynb</b> - Includes all information on imputing missing values, outlier detection and Feature engineering process and Exploratory data analysis.</li>
-  <li><b>Model Performance cardiovascular1.ipynb</b> -  Contains information on model performance of the classification algorithms on unseen data and model performance after hyperparameter tuning using random search cv</li>
+  <li><b>Model Performance cardiovascular1.ipynb</b> -  Contains information on model performance of the classification algorithms on unseen data and model performance after hyperparameter tuning using Random search CV and SMOTE</li>
+  <li><b>Model Performance cardiovascular2.ipynb</b> -  Contains information on model performance of the classification algorithms on unseen data and model performance after hyperparameter tuning using Random search cv and Grid search CV and SMOTE ENN</li>
 </ul>
 
 <h4>Output Files:</h4>
@@ -79,7 +80,10 @@ For classification problems, a class label is assigned on the basis of a majorit
 
 
 <p><b>1) Model Performance cardiovascular1.ipynb</b></p>
-<p> This file must be executed, to define all the functions and variables required for classification operations which leads to the evaluation of the model performance on unseen data
+<p> This file must be executed, to define all the functions and variables required for classification operations which leads to the evaluation of the model performance on unseen data where we applied SMOTE
+
+<p><b>1) Model Performance cardiovascular2.ipynb</b></p>
+<p> This file must be executed, to define all the functions and variables required for classification operations which leads to the evaluation of the model performance on unseen data where we applied SMOTE ENN
   
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
